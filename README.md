@@ -1,3 +1,5 @@
+See: https://github.com/kiegroup/drools/pull/5298#issuecomment-1606949169
+
 comparing PR: https://github.com/kiegroup/drools/pull/5298 (2344c56b76abffb4aaf3e2bb4b29a70b4b15c984)
 against main branch from `main` at: ad19dc5948620c2fc55e7e5fdc769e9f3c0a5d5a
 
